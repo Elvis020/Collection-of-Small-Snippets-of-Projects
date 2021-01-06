@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  display: flex;
+  margin: 0;
+  background-color: rgb(71, 70, 131);
+  min-height: 100vh;
+  color: #fff;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+}
